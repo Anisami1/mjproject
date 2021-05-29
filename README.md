@@ -1,3 +1,0 @@
-
-# mjproject
-mjproject
